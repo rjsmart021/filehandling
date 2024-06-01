@@ -1,0 +1,13 @@
+Additional sample data:
+
+Mark Johnson - mark.johnson@hotmail.com
+Sarah Davis - sarah.davis@yahoo.com
+James Thompson - james.thompson@gmail.com
+
+For any questions or concerns, please reach out to inquiries@example.com.
+
+Emily Brown - emily.brown@example.com
+Michael Lee - michael.lee@gmail.com
+michael.lee@gmail.com
+
+Contact us at support@example.com for any assistance needed.
